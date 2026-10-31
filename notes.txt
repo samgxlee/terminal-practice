@@ -1,0 +1,1 @@
+Learning NixOS and completing tasks in the terminal
